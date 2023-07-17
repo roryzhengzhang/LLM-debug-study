@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.description-item {
+  margin-top: 20px;
+}
+
+.task-description-item {
+  margin-top: 45px;
+}
+
+.description-list-item {
+  margin: 6px;
+}
+
+.question-item {
+  margin-bottom: 20px;
+}
